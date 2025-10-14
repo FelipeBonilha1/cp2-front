@@ -13,14 +13,14 @@ export default function Ex8() {
     <>
       <h1 className="text-2xl font-bold mb-4">Ex8 - Card de Produto</h1>
       <section className="mb-12 flex items-center justify-center">
-        {/* Card com efeito de levantar no hover (translate + sombra) */}
+        {/* Card com efeito de levantar no hover*/}
         <div
           className="group w-64 rounded-xl border border-gray-200 bg-white p-6 shadow-md transition
                      hover:-translate-y-1 hover:shadow-lg
                      focus-within:-translate-y-1 focus-within:shadow-lg
                      transform-gpu"
           role="article"
-          aria-label="Card de produto em promoção"
+          aria-label=""
         >
           <div className="mb-4 flex justify-center text-4xl text-blue-600">
             <FaShoppingCart className="animate-[swing_1.25s_ease-in-out_infinite] motion-reduce:animate-none" />
@@ -30,7 +30,7 @@ export default function Ex8() {
           <h3 className="mb-2 text-lg font-semibold text-gray-900">Produto em Promoção</h3>
           <p className="mb-4 text-gray-600">Aproveite 20% de desconto!</p>
 
-          {/* Botão com foco acessível e hover */}
+          {/*Botão*/}
           <button
             className="inline-flex w-full items-center justify-center rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white
                        transition-colors hover:bg-blue-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500/60 active:translate-y-px"

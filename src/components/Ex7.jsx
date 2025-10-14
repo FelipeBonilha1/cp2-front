@@ -37,7 +37,7 @@ export default function Ex7() {
           <section className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
             <h3 className="text-base font-semibold text-gray-900">Card 1</h3>
             <p className="mt-1 text-sm text-gray-600">
-              Conteúdo do card 1.
+              Conteúdo do card 1
             </p>
           </section>
 
@@ -45,7 +45,7 @@ export default function Ex7() {
           <section className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
             <h3 className="text-base font-semibold text-gray-900">Card 2</h3>
             <p className="mt-1 text-sm text-gray-600">
-              Conteúdo do card 2.
+              Conteúdo do card 2
             </p>
           </section>
 
@@ -53,7 +53,7 @@ export default function Ex7() {
           <section className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
             <h3 className="text-base font-semibold text-gray-900">Card 3</h3>
             <p className="mt-1 text-sm text-gray-600">
-              Conteúdo do card 3.
+              Conteúdo do card 3
             </p>
           </section>
 
@@ -61,7 +61,7 @@ export default function Ex7() {
           <section className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
             <h3 className="text-base font-semibold text-gray-900">Card 4</h3>
             <p className="mt-1 text-sm text-gray-600">
-              Conteúdo do card 4.
+              Conteúdo do card 4
             </p>
           </section>
         </main>

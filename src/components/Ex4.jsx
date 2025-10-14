@@ -22,12 +22,12 @@ export default function Ex4() {
             Card totalmente resposivo 
           </p>
 
-          {/* Ação do card */}
+          {/* Ação do card*/}
           <div className="mt-4">
             <button
               type="button"
               className="inline-flex items-center justify-center rounded-lg bg-pink-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:pink-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500/60 active:translate-y-px"
-              aria-label="Saiba mais sobre o card"
+              aria-label=""
             >
               Saiba mais
             </button>
